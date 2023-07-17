@@ -66,7 +66,7 @@ export default function App() {
       </div>
       <script src="src/index.js"></script>
       <footer>
-        <a href="https://cheery-sprinkles-304b36.netlify.app/">
+        <a href="https://github.com/chandn33/weather-react">
           Open-source code
         </a>{" "}
         by Chandni Patel🌻
